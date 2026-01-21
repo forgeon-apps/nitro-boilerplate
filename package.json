@@ -9,5 +9,6 @@
   },
   "devDependencies": {
     "nitropack": "latest"
-  }
+  },
+  "packageManager": "pnpm@9.12.0"
 }
